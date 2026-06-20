@@ -1,0 +1,20 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+
+h1{
+    color:#c1170e;
+    size:30px;
+}
+#para{
+    color:#0ea9c1;
+}
+.mahi{
+    color:darkorange;
+    border:1px solid pink;
+}
+h1,h2,p{
+    color:#c1170e;
+}
