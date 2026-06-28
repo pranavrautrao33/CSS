@@ -1,0 +1,50 @@
+ .profile-pic
+    {
+        width:100px;
+        height:auto;
+    }
+body {
+   background-image: url('/resumee/3.jpg'); 
+    background-color: #ef790c;      
+    background-repeat: no-repeat;   
+    background-position: center top;
+    background-size: cover;
+
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+
+.resume {
+    width: 60%;
+    margin: auto;
+    background-color: hsl(323, 93%, 67%);     
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #359ee0;
+}
+
+
+h1 {
+    color: #07b5fa;                
+    text-align: center;
+    
+}
+
+h2 {
+    color: #ea1a07;                 
+    border-bottom: 2px solid #006699;
+    padding-bottom: 5px;
+}
+
+
+p {
+    color: #333333;               
+    line-height: 1.6;
+}
+
+
+ul {
+    color: #444444;
+}
